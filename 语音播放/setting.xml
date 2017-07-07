@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
 	<appColor>8388608</appColor>
-	<subtitleColor>16711680</subtitleColor>
+	<subtitleColor>8388608</subtitleColor>
 	<subtitleFont1>36</subtitleFont1>
 	<subtitleFont2>ผู</subtitleFont2>
 	<subtitleFont3>ผู</subtitleFont3>
 	<subtitleFont4>ผู</subtitleFont4>
 	<subtitleFont5>ผู</subtitleFont5>
 	<subtitleFont6>หฮฬๅ</subtitleFont6>
-	<subtitleTop>746</subtitleTop>
-	<subtitleLeft>360</subtitleLeft>
+	<subtitleTop>656</subtitleTop>
+	<subtitleLeft>224</subtitleLeft>
 	<isHeadmost>ผู</isHeadmost>
-	<picTop>129</picTop>
-	<picLeft>304</picLeft>
+	<picTop>76</picTop>
+	<picLeft>136</picLeft>
 	<picWidth>815</picWidth>
 	<picHeight>531</picHeight>
 	<picShowTime/>

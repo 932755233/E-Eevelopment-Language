@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
 	<appColor>8388608</appColor>
-	<subtitleColor>16711680</subtitleColor>
+	<subtitleColor>8388608</subtitleColor>
 	<subtitleFont1>36</subtitleFont1>
 	<subtitleFont2>ผู</subtitleFont2>
 	<subtitleFont3>ผู</subtitleFont3>
@@ -9,13 +9,20 @@
 	<subtitleFont5>ผู</subtitleFont5>
 	<subtitleFont6>หฮฬๅ</subtitleFont6>
 	<subtitleTop>656</subtitleTop>
-	<subtitleLeft>198</subtitleLeft>
+	<subtitleLeft>-269</subtitleLeft>
 	<isHeadmost>ผู</isHeadmost>
-	<picTop>114</picTop>
+	<picTop>76</picTop>
 	<picLeft>136</picLeft>
 	<picWidth>815</picWidth>
 	<picHeight>531</picHeight>
-	<picShowTime/>
-	<subtitleShowTime/>
+	<picShowTime>8</picShowTime>
+	<subtitleShowTime>5</subtitleShowTime>
 	<homeLebalTexgColor>16777215</homeLebalTexgColor>
+	<littleGirlTop>0</littleGirlTop>
+	<littleGirlLeft>0</littleGirlLeft>
+	<littleGirlwidth>0</littleGirlwidth>
+	<littleGirlheight>0</littleGirlheight>
+	<littleGirlTime>5</littleGirlTime>
+	<windowsTop>7</windowsTop>
+	<windowsLeft>749</windowsLeft>
 </Document>

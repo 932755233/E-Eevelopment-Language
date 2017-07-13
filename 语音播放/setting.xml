@@ -9,13 +9,20 @@
 	<subtitleFont5>ผู</subtitleFont5>
 	<subtitleFont6>หฮฬๅ</subtitleFont6>
 	<subtitleTop>656</subtitleTop>
-	<subtitleLeft>224</subtitleLeft>
+	<subtitleLeft>-269</subtitleLeft>
 	<isHeadmost>ผู</isHeadmost>
 	<picTop>76</picTop>
 	<picLeft>136</picLeft>
 	<picWidth>815</picWidth>
 	<picHeight>531</picHeight>
-	<picShowTime/>
-	<subtitleShowTime/>
+	<picShowTime>8</picShowTime>
+	<subtitleShowTime>5</subtitleShowTime>
 	<homeLebalTexgColor>16777215</homeLebalTexgColor>
+	<littleGirlTop>61</littleGirlTop>
+	<littleGirlLeft>773</littleGirlLeft>
+	<littleGirlwidth>0</littleGirlwidth>
+	<littleGirlheight>0</littleGirlheight>
+	<littleGirlTime>5</littleGirlTime>
+	<windowsTop>3</windowsTop>
+	<windowsLeft>762</windowsLeft>
 </Document>
